@@ -66,7 +66,6 @@ Sort işlemini başarıyla geçen bagaj bu arayüz de uçağa yüklenir. Eğer y
 ### 2.8 Bagaj İndirme Ekranı
 Uçak varış noktasına geldiğinde bu arayüz de bagajların indirme işlemi yapılır.
 
-
 ![unload](https://user-images.githubusercontent.com/53192718/86413330-973c9600-bcc9-11ea-8efe-3f791667a9ed.gif)
 
 ### 2.9 Bagaj Transfer Ekranı
